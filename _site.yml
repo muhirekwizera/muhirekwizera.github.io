@@ -6,6 +6,6 @@ navbar:
     - text: "Resume"
       href: resume.html
     - icon: fa-github fa-lg
-      href: http://github.com/<YOUR_GH_NAME>/
+      href: https://github.com/muhirekwizera/
 output:
   html_document

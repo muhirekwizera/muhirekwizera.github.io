@@ -1,5 +1,51 @@
 ---
 title: "Resume"
-author: Muhire Honorine Kwizera
+output: html_document
 ---
 
+<img src="images/kwizera-muhire-resume.pdf" style="width:95%">
+
+
+# Muhire Honorine Kwizera
+
+##### mhk2159@columbia.edu
+
+Department of Biostatistics
+
+Mailman School of Public Health
+
+Columbia University
+
+
+50 Haven Avenue, B202
+
+New York, NY 10032
+
+(404) 960-3501
+
+##### **Education**
+
+2017--2022 (expected) Ph.D. in Biostatistics, Columbia University, New York, NY
+
+2013--2017 B.S in Mathematics, Spelman College, Atlanta, GA
+
+##### **Work Experience**
+
+
+2015--2017 Research Assistant in Computational Chemistry, Spelman College
+
+* *Developed a nonparametric four-wave mixing model for peak pattern prediction*
+
+2016 Research Intern at the Neuroscience Statistics Research Laboratory, MIT
+
+* *Performed nonparametric spectral analysis on EEG signals to characterize unconsciousness under general anesthesia*
+* *Gave oral and poster presentations at the end of the program*
+  
+2015 Intern at the National Institute of Statistics of Rwanda, Kigali, Rwanda
+
+* *Prepared surveys, coded questionnaires and collected data for GDP and CPI computation*
+
+2014 Research Intern in Computational Neuroscience, Emory University School of Medicine
+
+* *Implemented nonparametric spectral analysis and supervised machine learning in MATLAB to compare sleep disorders*
+* *Presented a poster at the Emory SURE Symposium and StatFest 2014 conference*
