@@ -7,5 +7,8 @@ navbar:
       href: resume.html
     - icon: fa-github fa-lg
       href: https://github.com/muhirekwizera/
+    - icon: fa-envelope fa-lg
+      href: mailto:<mhk2159@columbia.edu>
 output:
-  html_document
+  html_document:
+    theme: cosmo
