@@ -4,7 +4,7 @@ title: "Muhire Honorine Kwizera"
 
 ### Welcome to my webpage!
 
-<img src="images/muhire_picture.png" style="width:75%">
+<img src="images/muhire_picture.jpeg" style="width:75%">
 
 I am a first year Ph.D. student in the Biostatistics department in the Mailman School of Public Health at Columbia University in New York, NY. I was born and raised in Kigali, Rwanda and I obtained my undergraduate degree in Mathematics at Spelman College in Atlanta, GA.
 
