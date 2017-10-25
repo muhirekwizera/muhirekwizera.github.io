@@ -3,5 +3,4 @@ title: "Resume"
 output: html_document
 ---
 
-<img src="images/kwizera-muhire-resume_image.1.png" style="width:95%">
-<img src="images/kwizera-muhire-resume_image.2.png" style="width:95%">
+My resume is [here](documents/kwizera-muhire-resume.pdf)
